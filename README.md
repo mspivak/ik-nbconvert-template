@@ -1,6 +1,6 @@
 # The IK `nbconvert` template
 
-## Instalation
+## Installation
 
 1. Find your `templates` path and change to it.
 
